@@ -1,0 +1,373 @@
+﻿  Curs.cpp
+C:\GL\Lab2\Lab2\Curs.cpp(89,37): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(90,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(104,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(105,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(115,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(119,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(120,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(131,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(135,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(136,36): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(180,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(189,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(209,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(217,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(242,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(284,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(298,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(311,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(321,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(331,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(342,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(377,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(385,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(393,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(394,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(400,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(401,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(408,38): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\GL\Lab2\Lab2\Curs.cpp(427,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(428,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(458,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(459,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(464,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(468,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(469,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(477,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(478,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(486,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(487,41): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(502,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(503,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(520,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(521,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(532,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(538,25): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(539,25): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(552,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(553,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(561,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(566,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(567,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(575,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(580,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(581,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(596,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(597,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(605,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(610,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(611,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(619,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(624,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(625,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(638,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(639,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(647,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(652,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(653,20): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(664,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(668,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(669,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(764,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(780,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(788,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(796,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(810,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(823,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(832,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(838,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(848,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(855,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(861,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(889,18): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+C:\GL\Lab2\Lab2\Curs.cpp(1034,11): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(1037,20): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(1041,12): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(1045,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(1088,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1089,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1125,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1126,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1171,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1173,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1173,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1174,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1174,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1175,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1175,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1176,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1176,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1177,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1177,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1178,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1178,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1179,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1179,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1180,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1180,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1181,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1181,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1187,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1187,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1188,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1188,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1189,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1189,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1190,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1190,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1191,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1191,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1192,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1192,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1193,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1193,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1194,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1194,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1195,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1195,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1200,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1200,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1201,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1201,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1202,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1202,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1203,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1203,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1204,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1204,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1205,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1205,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1206,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1206,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1207,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1207,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1208,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1208,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1209,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1209,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1210,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1210,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1217,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1217,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1218,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1218,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1219,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1219,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1220,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1220,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1221,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1221,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1222,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1222,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1223,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1223,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1224,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1224,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1225,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1225,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1226,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1226,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1227,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1227,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1230,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1232,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1232,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1233,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1233,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1235,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1235,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1236,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1236,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1242,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1242,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1243,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1243,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1244,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1244,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1245,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1245,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1248,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1250,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1250,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1251,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1251,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1252,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1252,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1253,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1253,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1258,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1258,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1259,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1259,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1260,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1260,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1261,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1261,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1264,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1266,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1266,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1267,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1267,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1268,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1268,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1269,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1269,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1274,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1274,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1275,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1275,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1276,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1276,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1277,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1277,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1293,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1296,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1296,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1297,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1297,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1298,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1298,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1299,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1299,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1304,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1304,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1305,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1305,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1306,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1306,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1307,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1307,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1328,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1346,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1355,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1363,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1377,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1384,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1392,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1409,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1418,18): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1425,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1431,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1459,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1466,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1472,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1483,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1547,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1750,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1804,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1804,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1804,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1804,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1807,11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1819,21): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1819,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1820,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1820,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1821,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1821,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1822,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1822,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1830,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1831,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1841,25): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1842,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1848,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1850,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1850,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1851,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1851,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1859,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1860,26): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1870,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1870,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1880,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1885,19): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1886,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1896,19): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1897,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1952,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(1958,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1958,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1958,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1958,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1962,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1962,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1962,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1962,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1976,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1977,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1977,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1978,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1978,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1979,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1979,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1984,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1991,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(1996,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(1997,21): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2004,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2006,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2006,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2007,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2007,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2008,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2008,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2009,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2009,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2013,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2015,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2015,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2016,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2016,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2017,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2017,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2018,33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2018,20): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2038,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2038,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2073,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2079,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2081,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2081,15): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2082,23): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2082,15): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2083,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2083,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2105,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2113,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2118,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2119,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2134,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2143,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2153,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2163,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2169,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2174,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2175,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2186,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2212,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2237,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2245,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2253,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2266,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2274,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2279,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2280,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2296,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2305,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2315,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2325,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2362,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2363,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2368,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2373,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2374,18): warning C4244: '=': conversion from 'double' to 'GLint', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2403,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2410,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2416,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\GL\Lab2\Lab2\Curs.cpp(2428,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\GL\Lab2\Lab2\Curs.cpp(2551,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(2559,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\GL\Lab2\Lab2\Curs.cpp(2613,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab2.vcxproj -> C:\GL\Lab2\Debug\Lab2.exe
